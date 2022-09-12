@@ -1,0 +1,22 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/node': ^18.7.16
+  chalk: ^5.0.1
+
+dependencies:
+  chalk: 5.0.1
+
+devDependencies:
+  '@types/node': 18.7.16
+
+packages:
+
+  /@types/node/18.7.16:
+    resolution: {integrity: sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==}
+    dev: true
+
+  /chalk/5.0.1:
+    resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
